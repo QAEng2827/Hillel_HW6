@@ -1,4 +1,4 @@
-package annotationTask.inputOutputTask;
+package inputOutputTask;
 /*Write program that open a text file so that you can read the file one line at a time.
 Read each line as a String and place that String object into a LinkedList.
 Print all of the lines in the LinkedList in reverse order.*/
@@ -9,7 +9,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class task3_1 {
+public class Task3_1 {
 
 public static void main(String args[])throws IOException{
     String content = new String();
